@@ -1,4 +1,4 @@
-FROM basantmandal/hk2-php8.3-fpm:2.2
+FROM basantmandal/hk2-php8.1-fpm:2.2
 
 # Current Working User 
 ARG USER
