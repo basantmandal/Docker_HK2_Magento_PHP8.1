@@ -1,4 +1,4 @@
-# Docker Image - HK2 - PHP8.1-fpm - Magento2.4.4 till Magento2.4.6
+# Docker Image - PHP8.1-fpm - Magento2.4.4 till Magento2.4.6
 
 ## Description
 
@@ -38,7 +38,7 @@ This is a Open Source - Free to use Docker Image/Container. No charge or any fee
 
 ## 🚀 Sample Docker Compose
 
-[https://github.com/basantmandal/Docker_HK2_Magento_PHP8.1/test/docker-compose.yml](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.1/test/docker-compose.yml)
+[https://github.com/basantmandal/Magento_Docker_Compose](https://github.com/basantmandal/Magento_Docker_Compose)
 
 ## 🚀 How to use it for Magento
 
@@ -74,7 +74,7 @@ Contributions are welcome! If you’d like to contribute to this project:
 
 ## 🤝 Consent
 
-By using any Product/Module/Application/Docker Image/Container/etc from Basant Mandal A.K.A (HK2 - Hash Tag Kitto), you hereby consent to our disclaimer and agree to its terms.
+By using any Product/Module/Application/Docker Image/Container/Compose, etc from Basant Mandal A.K.A (HK2 - Hash Tag Kitto), you hereby consent to our disclaimer and agree to its terms.
 
 ## 📢 Disclaimer
 
